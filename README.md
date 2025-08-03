@@ -1,9 +1,9 @@
 # 🍕 Pizza Sales Analysis 📊
 
-## Business Objective:
+## 📌 Business Objective:
 • To analyze the client’s sales data in 2015 to identify key trends and customer preferences that influence their purchase. The goal is to empower the client in making data-driven decisions that will help to improve marketing strategies and operational efficiency which ultimately enhance sales in the upcoming year.
 
-## 📌 Key Insights:
+## 🔍 Key Insights:
 ### Sales Performance: (Based On Total Quantity Sold)
 
 •	*Sales Trend:* Hasn’t been optimistic which is evident from the downward trend throughout 2015. Moreover, there is a greater number of months showing a decrease in quantity sold as compared to those showing an increase. Sales peaked in July and troughed in October. 
@@ -25,4 +25,4 @@
 
 
 
-🔍
+

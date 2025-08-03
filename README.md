@@ -47,7 +47,7 @@
 •	*Most Preferred Day & Time Of Purchase:* Customers have a higher propensity to make a purchase during Friday Afternoon which is between 12pm and 6pm. 
 
 ---
-###  Recommendations 
+###  Recommendations:
 
 
 •	*Increase Sales Of Pizzas From Chicken Category:* When customers add ‘The Hawaiian Pizza’ into their cart, recommend them ‘The Thai Chicken Pizza’ as well since they are often bought together. Alternatively, as part of the Friday Afternoon special deals, discounts could be given to ‘The Barbecue Chicken Pizza’ (i.e. leverage on its popularity) with the purchase of any other pizzas from the Chicken category.

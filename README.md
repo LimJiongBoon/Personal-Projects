@@ -6,6 +6,8 @@
 ## 🔍 Key Insights:
 ### Sales Performance: (Based On Total Quantity Sold)
 
+<img width="1141" height="582" alt="image" src="https://github.com/user-attachments/assets/a36e9dac-e154-4f5a-a3ba-ad5f4da37f1e" />
+
 •	*Sales Trend:* Hasn’t been optimistic which is evident from the downward trend throughout 2015. Moreover, there is a greater number of months showing a decrease in quantity sold as compared to those showing an increase. Sales peaked in July and troughed in October. 
 
 

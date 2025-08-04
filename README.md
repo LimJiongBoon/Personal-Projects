@@ -20,7 +20,16 @@
 •	*Least/Best-Selling Categories:* Chicken is the least popular while Classic is the most popular. Interestingly, even though Chicken is the least popular category, ‘The Barbecue Chicken Pizza’ emerged as the 2nd highest bought pizza potentially due to the desirable combination of barbecue chicken and sauce which are not found in other pizzas in that same category.
 
 
-•	*Ideal Pizza Sizes:* Generally large for Supreme, Veggie and Chicken categories typically for sharing and small for Classic category for personal consumption. The best-selling pizzas in small size for Classic category is 'The Big Meat Pizza’.
+•	*Ideal Pizza Sizes:* Generally large for Supreme, Veggie and Chicken categories typically for sharing and small for Classic category for personal consumption. 
+
+The best-selling pizza (L) for Supreme --> 'The Spicy Italian Pizza'
+
+The best-selling pizza (L) for Veggie --> 'The Five Cheese Pizza'
+
+The best-selling pizza (L) for Chicken --> 'The Thai Chicken Pizza'
+
+The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
+
 
 ---
 •	*Seasonality Across Categories:* Trend of declining quantity sold across all categories from August to October except for Supreme category which saw a sudden increase in October attributed to the highest contributor, ‘The Sicilian Pizza’ in terms of the quantity sold in October. This may reflect the impact of effective promotional campaigns for the aforementioned pizza and should be explored in greater detail. 

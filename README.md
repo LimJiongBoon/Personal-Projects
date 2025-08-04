@@ -35,9 +35,9 @@ The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
 
 | Chicken                                                                                                                | Veggie               
 |:----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|
-| <img width="600" alt="image" src="https://github.com/user-attachments/assets/60714a78-2e7d-4343-9faa-8253ec7cf13c" /> | <img width="600" alt="Another Dish" src="https://github.com/user-attachments/assets/167d0028-1963-49fe-b219-fb4b15c07585" /> |
+| <img width="600" alt="image" src="https://github.com/user-attachments/assets/60714a78-2e7d-4343-9faa-8253ec7cf13c" /> | <img width="721" alt="image" src="https://github.com/user-attachments/assets/ecfe06c4-d26d-4e3e-ba48-e4a531356827" /> |
 | Classic                                                                                                               | Supreme                                                                                             |
-| <img width="705" height="342" alt="image" src="https://github.com/user-attachments/assets/14e42bec-38a6-45f0-941d-2c729baf9286" /> | <img width="725" height="353" alt="image" src="https://github.com/user-attachments/assets/0f783465-276d-4671-907e-0c6fc5357f8f" />
+| <img width="705" alt="image" src="https://github.com/user-attachments/assets/14e42bec-38a6-45f0-941d-2c729baf9286" /> | <img width="725" alt="image" src="https://github.com/user-attachments/assets/0f783465-276d-4671-907e-0c6fc5357f8f" />
                                                                                      
 •	*Seasonality Across Categories:* Trend of declining quantity sold across all categories from August to October except for Supreme category which saw a sudden increase in October attributed to the highest contributor, ‘The Sicilian Pizza’ in terms of the quantity sold in October. This may reflect the impact of effective promotional campaigns for the aforementioned pizza and should be explored in greater detail. 
 

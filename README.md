@@ -10,13 +10,19 @@
 
 •	*Sales Trend:* Hasn’t been optimistic which is evident from the downward trend throughout 2015. Moreover, there is a greater number of months showing a decrease in quantity sold as compared to those showing an increase. Sales peaked in July and troughed in October. 
 
+---
+
+| <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/f7936516-6b37-4971-83c1-2e6496e1318b" /> | <img width="642" height="273" alt="image" src="https://github.com/user-attachments/assets/14267f46-5850-442f-afb1-af002462174f" /> 
+|:-----------------------------:|:-----------------------------:|
+
+
 
 •	*Least/Best-Selling Categories:* Chicken is the least popular while Classic is the most popular. Interestingly, even though Chicken is the least popular category, ‘The Barbecue Chicken Pizza’ emerged as the 2nd highest bought pizza potentially due to the desirable combination of barbecue chicken and sauce which are not found in other pizzas in that same category.
 
 
 •	*Ideal Pizza Sizes:* Generally large for Supreme, Veggie and Chicken categories typically for sharing and small for Classic category for personal consumption which include the 2 best-selling pizzas in small size (e.g. ‘The Big Meat Pizza’ and ‘The Hawaiian Pizza’).
 
-
+---
 •	*Seasonality Across Categories:* Trend of declining quantity sold across all categories from August to October except for Supreme category which saw a sudden increase in October attributed to the highest contributor, ‘The Sicilian Pizza’ in terms of the quantity sold in October. This may reflect the impact of effective promotional campaigns for the aforementioned pizza and should be explored in greater detail. 
 
 

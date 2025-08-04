@@ -10,6 +10,7 @@ Time horizon --> 2015-01-01 to 2015-12-31
 -- Data Cleaning/Transformation & Exploratory Data Analysis-- 
 
 -- Overview of table -- 
+-- Note: To be loaded into PowerBI for further analysis --
 SELECT 
 	order_details_id,
 	od.order_id,
@@ -62,7 +63,8 @@ GROUP BY
 ORDER BY 
 	total_sales_amt DESC;
 
--- Initial table --
+
+-- Note: Table (with ingredients separated) to be used for market basket analysis in pandas -- 
 WITH RECURSIVE t1 AS (
 	SELECT 
 		`name`,

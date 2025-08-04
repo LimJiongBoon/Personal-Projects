@@ -41,8 +41,12 @@ The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
                                                                                      
 •	*Seasonality Across Categories:* Trend of declining quantity sold across all categories from August to October except for Supreme category which saw a sudden increase in October attributed to the highest contributor, ‘The Sicilian Pizza’ in terms of the quantity sold in October. This may reflect the impact of effective promotional campaigns for the aforementioned pizza and should be explored in greater detail. 
 
+---
+| <img width="1200" alt="image" src="https://github.com/user-attachments/assets/b107a127-fee8-4ba8-ac7e-14ba676c3d6f" /> | <img width="300" alt="image" src="https://github.com/user-attachments/assets/7bcc192e-6b21-48c6-97d5-6b19a41172e9" />
+|:-----------------------------:|:-----------------------------:|
 
-•	*Popular Toppings:* Among the top 10 best-selling pizzas, tomatoes and red peppers are the most commonly used ingredients, appearing in 50% and 40% of them, respectively. This information can guide the formulation of new pizza varieties moving forward.
+
+•	*Popular Toppings:* With the aggregation done in SQL, among the top 10 best-selling pizzas, tomatoes and red peppers are the most commonly used ingredients, appearing in 50% and 40% of them, respectively. This information can guide the formulation of new pizza varieties moving forward.
 
 
 •	*Worst Selling Pizza:* ‘The Brie Carre Pizza’ has recorded the lowest quantity sold and revenue which indicates an opportunity to review its ingredients and consider purchasing them less often or in smaller quantities to reduce inventory costs. Specifically, the ingredients that appear least frequently across the pizza recipes — and are included in the aforementioned pizza—are Prosciutto, Pears, Thyme, Brie Carre Cheese, and Caramelized Onions (i.e. in contrast to Garlic).

@@ -46,7 +46,7 @@ The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
 |:-----------------------------:|:-----------------------------:|
 
 
-•	*Popular Toppings:* With the aggregation done in SQL, among the top 10 best-selling pizzas, tomatoes and red peppers are the most commonly used ingredients, appearing in 50% and 40% of them, respectively. This information can guide the formulation of new pizza varieties moving forward.
+•	*Popular Toppings:* Among the top 10 best-selling pizzas, tomatoes and red peppers are the most commonly used ingredients, appearing in 50% and 40% of them, respectively. This information can guide the formulation of new pizza varieties moving forward.
 
 
 •	*Worst Selling Pizza:* ‘The Brie Carre Pizza’ has recorded the lowest quantity sold and revenue which indicates an opportunity to review its ingredients and consider purchasing them less often or in smaller quantities to reduce inventory costs. Specifically, the ingredients that appear least frequently across the pizza recipes — and are included in the aforementioned pizza—are Prosciutto, Pears, Thyme, Brie Carre Cheese, and Caramelized Onions (i.e. in contrast to Garlic).

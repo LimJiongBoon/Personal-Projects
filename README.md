@@ -5,7 +5,7 @@
 
 ## 🔍 Key Insights:
 ---
-###  Sales Performance: (Based On Quantity Sold) <br><br>
+###  Sales Performance: (Based On Quantity Sold)<br><br>
 ---
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/eee9734a-7221-4528-a1e4-134407e8d328" />
 
@@ -92,7 +92,7 @@ The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
 •	*Most Preferred Day & Time Of Purchase:* Customers have a higher propensity to make a purchase during Friday Afternoon which is between 12pm and 5pm. 
 
 ---
-###  Recommendations:<br><br>
+##  Recommendations:
 ---
 
 •	*Increase Sales Of Pizzas From Chicken Category:* When customers add ‘The Hawaiian Pizza’ into their cart, recommend them ‘The Thai Chicken Pizza’ as well since they are often bought together. Alternatively, as part of the Friday Afternoon special deals, discounts could be given to ‘The Barbecue Chicken Pizza’ (i.e. leverage on its popularity) with the purchase of any other pizzas from the Chicken category.

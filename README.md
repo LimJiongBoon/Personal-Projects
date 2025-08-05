@@ -83,7 +83,9 @@ The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
 
 •	*Product Combination:* Based on market basket analysis using the apriori algorithm, a lift value of 1.04 suggests that ‘The Thai Chicken Pizza’ and ‘The Hawaiian Pizza’ are 4% more likely to be bought together than by random chance. Although the association might not be very strong, it serves as a starting point for future cross-selling opportunities. 
 
-<img width="675" height="251" alt="image" src="https://github.com/user-attachments/assets/d1e78965-34ff-43f4-8303-959cb3fb7ab4" />
+---
+| <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/86e9c26e-0d2b-4845-8393-e4a915ffad7c" /> | <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/45348200-d257-4507-8a8d-7c48f13b6073" />
+|:-----------------------------:|:-----------------------------:|
 
 •	*Most Preferred Day & Time Of Purchase:* Customers have a higher propensity to make a purchase during Friday Afternoon which is between 12pm and 6pm. 
 

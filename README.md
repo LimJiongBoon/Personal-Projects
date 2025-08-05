@@ -8,13 +8,13 @@
 
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/eee9734a-7221-4528-a1e4-134407e8d328" />
 
+
 •	*Sales Trend:* Hasn’t been optimistic which is evident from the downward trend throughout 2015. Moreover, there is a greater number of months showing a decrease in quantity sold as compared to those showing an increase. Sales peaked in July and troughed in October. 
 
 ---
 
 | <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/f7936516-6b37-4971-83c1-2e6496e1318b" /> | <img width="642" height="273" alt="image" src="https://github.com/user-attachments/assets/14267f46-5850-442f-afb1-af002462174f" /> 
 |:-----------------------------:|:-----------------------------:|
-
 
 
 •	*Least/Best-Selling Categories:* Chicken is the least popular while Classic is the most popular. Interestingly, even though Chicken is the least popular category, ‘The Barbecue Chicken Pizza’ emerged as the 2nd highest bought pizza potentially due to the desirable combination of barbecue chicken and sauce which are not found in other pizzas in that same category.
@@ -57,25 +57,33 @@ The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
 •	*Worst Selling Pizza:* ‘The Brie Carre Pizza’ has recorded the lowest quantity sold and revenue which indicates an opportunity to review its ingredients and consider purchasing them less often or in smaller quantities to reduce inventory costs. Specifically, the ingredients that appear least frequently across the pizza menu — and are included in the aforementioned pizza; Prosciutto, Pears, Thyme, Brie Carre Cheese, and Caramelized Onions. In contrast, since garlic is used in 19 other pizzas on the menu, it will be purchased with the same frequency and quantity as before.  
 
 ---
-### Sales Performance: (Based On Revenue)
+### Sales Performance: (Based On Revenue)<br><br>
 
 <img width="758" height="302" alt="image" src="https://github.com/user-attachments/assets/4f39aa16-b441-4e83-88b3-e27a01284284" />
 
+
 •	*Major Revenue Contributors:* The top 5 best-selling pizzas (based on revenue) which include ‘The Thai Chicken Pizza’, ‘The Barbecue Chicken Pizza’, ‘The California Chicken Pizza’, ‘The Classic Deluxe Pizza’ and ‘The Spicy Italian Pizza’ respectively, account for approximately 25% of the total revenue generated. Although pizzas in the Chicken category recorded the lowest total quantity sold, the 3 previously mentioned chicken-based pizzas already contributed 15.6% of total revenue. Thus, there is a need to focus on improving this high revenue impact category in terms of quantity sold.
 
+---
+<img width="674" height="355" alt="image" src="https://github.com/user-attachments/assets/631413f1-2aee-452c-898b-d152b452cbaf" />
 
-•	*Low Number Of Orders Reaching AOV:* Only 36.6% of total orders reached the AOV of $38.31. This suggests the need for segmenting customers based on low to high spenders and devising more targeted strategies to boost overall AOV. 
+
+•	*Low Number Of Orders Reaching AOV:* Although AOV has been relatively stable throughout the months, only 36.6% of total orders reached the overall AOV of $38.31.
 
 ---
-### Customer Purchase Behavior: <br><br>
-•	*Average Order Size:* Most orders consist of at least 2 pizzas, indicating that pizzas are often purchased for sharing, likely among small groups.
+### Customer Purchase Behavior:
+
+•	*Average Order Size:* 62% of total orders consist of at least 2 pizzas, indicating that pizzas are often purchased for sharing, likely among small groups.
 
 
-•	*Average Order Value:* The AOV is approximately $38.31 which can be further evaluated with the benchmark industry. Otherwise, the AOV is relatively stable across the months. 
+•	*Average Order Value:* The overall AOV is $38.31 which can be further evaluated against the industry benchmark to determine whether adjustments to pricing or promotional strategies are necessary. 
 
+---
+<img width="456" height="594" alt="image" src="https://github.com/user-attachments/assets/0fba0a5f-215c-4ad5-afd8-eb3704160f48" />
 
 •	*Product Combination:* Based on market basket analysis using the apriori algorithm, a lift value of 1.04 suggests that ‘The Thai Chicken Pizza’ and ‘The Hawaiian Pizza’ are 4% more likely to be bought together than by random chance. Although the association might not be very strong, it serves as a starting point for future cross-selling opportunities. 
 
+<img width="675" height="251" alt="image" src="https://github.com/user-attachments/assets/d1e78965-34ff-43f4-8303-959cb3fb7ab4" />
 
 •	*Most Preferred Day & Time Of Purchase:* Customers have a higher propensity to make a purchase during Friday Afternoon which is between 12pm and 6pm. 
 

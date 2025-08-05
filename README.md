@@ -4,6 +4,7 @@
 • To analyze the client’s sales data in 2015 to identify key trends and customer preferences that influence their purchase. The goal is to empower the client in making data-driven decisions that will help to improve marketing strategies and operational efficiency which ultimately enhance sales in the upcoming year.
 
 ## 🔍 Key Insights:
+---
 ###  Sales Performance: (Based On Quantity Sold) <br><br>
 ---
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/eee9734a-7221-4528-a1e4-134407e8d328" />

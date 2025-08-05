@@ -54,16 +54,14 @@ The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
 | <img width="846" height="273" alt="image" src="https://github.com/user-attachments/assets/44d883a3-e5ab-4d35-bb06-1c3653a2fffd" /> | <img width="499" height="174" alt="image" src="https://github.com/user-attachments/assets/1ef5f184-5295-488d-9fd7-25f177608665" /> 
 |:-----------------------------:|:-----------------------------:|
 
-
----
-<img width="499" height="174" alt="image" src="https://github.com/user-attachments/assets/22ca5a94-3668-4aeb-a5c1-dcbade715a9e" />
-
 •	*Worst Selling Pizza:* ‘The Brie Carre Pizza’ has recorded the lowest quantity sold and revenue which indicates an opportunity to review its ingredients and consider purchasing them less often or in smaller quantities to reduce inventory costs. Specifically, the ingredients that appear least frequently across the pizza menu — and are included in the aforementioned pizza; Prosciutto, Pears, Thyme, Brie Carre Cheese, and Caramelized Onions. In contrast, since garlic is used in 19 other pizzas on the menu, it will be purchased with the same frequency and quantity as before.  
 
 ---
-### Sales Performance: (Based On Revenue) <br><br>
+### Sales Performance: (Based On Revenue)
 
-•	*Major Revenue Contributors:* The top 5 best-selling pizzas which include ‘The Thai Chicken Pizza’, ‘The Barbecue Chicken Pizza’, ‘The California Chicken Pizza’, ‘The Classic Deluxe Pizza’ and ‘The Spicy Italian Pizza’ respectively, account for approximately 25% of the total revenue generated. Although pizzas in the Chicken category recorded the lowest total quantity sold, the 3 previously mentioned chicken-based pizzas already contributed 15.6% of total revenue. Thus, there is a need to focus on improving this category in terms of quantity sold.
+<img width="758" height="302" alt="image" src="https://github.com/user-attachments/assets/4f39aa16-b441-4e83-88b3-e27a01284284" />
+
+•	*Major Revenue Contributors:* The top 5 best-selling pizzas (based on revenue) which include ‘The Thai Chicken Pizza’, ‘The Barbecue Chicken Pizza’, ‘The California Chicken Pizza’, ‘The Classic Deluxe Pizza’ and ‘The Spicy Italian Pizza’ respectively, account for approximately 25% of the total revenue generated. Although pizzas in the Chicken category recorded the lowest total quantity sold, the 3 previously mentioned chicken-based pizzas already contributed 15.6% of total revenue. Thus, there is a need to focus on improving this high revenue impact category in terms of quantity sold.
 
 
 •	*Low Number Of Orders Reaching AOV:* Only 36.6% of total orders reached the AOV of $38.31. This suggests the need for segmenting customers based on low to high spenders and devising more targeted strategies to boost overall AOV. 

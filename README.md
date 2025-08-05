@@ -5,7 +5,7 @@
 
 ## 🔍 Key Insights:
 ###  Sales Performance: (Based On Quantity Sold) <br><br>
-
+---
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/eee9734a-7221-4528-a1e4-134407e8d328" />
 
 
@@ -58,7 +58,7 @@ The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
 
 ---
 ### Sales Performance: (Based On Revenue)<br><br>
-
+---
 <img width="758" height="302" alt="image" src="https://github.com/user-attachments/assets/4f39aa16-b441-4e83-88b3-e27a01284284" />
 
 
@@ -71,8 +71,8 @@ The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
 •	*Low Number Of Orders Reaching AOV:* Although AOV has been relatively stable throughout the months, only 36.6% of total orders reached the overall AOV of $38.31.
 
 ---
-### Customer Purchase Behavior:
-
+### Customer Purchase Behavior:<br><br>
+---
 •	*Average Order Size:* 62% of total orders consist of at least 2 pizzas, indicating that pizzas are often purchased for sharing, likely among small groups.
 
 
@@ -91,8 +91,8 @@ The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
 •	*Most Preferred Day & Time Of Purchase:* Customers have a higher propensity to make a purchase during Friday Afternoon which is between 12pm and 5pm. 
 
 ---
-###  Recommendations:
-
+###  Recommendations:<br><br>
+---
 
 •	*Increase Sales Of Pizzas From Chicken Category:* When customers add ‘The Hawaiian Pizza’ into their cart, recommend them ‘The Thai Chicken Pizza’ as well since they are often bought together. Alternatively, as part of the Friday Afternoon special deals, discounts could be given to ‘The Barbecue Chicken Pizza’ (i.e. leverage on its popularity) with the purchase of any other pizzas from the Chicken category.
 

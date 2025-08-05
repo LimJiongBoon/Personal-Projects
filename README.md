@@ -86,9 +86,9 @@ The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
 ---
 <img width="902" height="500" alt="image" src="https://github.com/user-attachments/assets/26105698-5050-4b08-b012-9dc823dcb693" />
 
-•	*Low Order Volume Period:* The low order volume in the morning indicates an opportunity for tailoring of product offering to better align with morning consumption patterns.
+•	*Low Order Volume Period:* The low order volume in the morning which is between 6am and 11am indicates an opportunity for tailoring of product offering to better align with morning consumption patterns.
 
-•	*Most Preferred Day & Time Of Purchase:* Customers have a higher propensity to make a purchase during Friday Afternoon which is between 12pm and 6pm. 
+•	*Most Preferred Day & Time Of Purchase:* Customers have a higher propensity to make a purchase during Friday Afternoon which is between 12pm and 5pm. 
 
 ---
 ###  Recommendations:

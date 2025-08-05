@@ -107,3 +107,6 @@ The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
 
 
 •	*Enhance Operational Efficiency:* Hire more part-time servers during the peak period in July to maintain prompt food service to prevent customer complaints and minimize fixed labor costs (i.e. compared to hiring full-timers).
+
+---
+Source Dataset: https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=Pizza%20Place%20Sales 

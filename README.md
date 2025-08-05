@@ -49,7 +49,16 @@ The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
 •	*Popular Toppings:* Among the top 10 best-selling pizzas, tomatoes and red peppers are the most commonly used ingredients, appearing in 50% and 40% of them, respectively. This information can guide the formulation of new pizza varieties moving forward.
 
 
-•	*Worst Selling Pizza:* ‘The Brie Carre Pizza’ has recorded the lowest quantity sold and revenue which indicates an opportunity to review its ingredients and consider purchasing them less often or in smaller quantities to reduce inventory costs. Specifically, the ingredients that appear least frequently across the pizza recipes — and are included in the aforementioned pizza—are Prosciutto, Pears, Thyme, Brie Carre Cheese, and Caramelized Onions (i.e. in contrast to Garlic).
+---
+
+| <img width="846" height="273" alt="image" src="https://github.com/user-attachments/assets/44d883a3-e5ab-4d35-bb06-1c3653a2fffd" /> | <img width="499" height="174" alt="image" src="https://github.com/user-attachments/assets/1ef5f184-5295-488d-9fd7-25f177608665" /> 
+|:-----------------------------:|:-----------------------------:|
+
+
+---
+<img width="499" height="174" alt="image" src="https://github.com/user-attachments/assets/22ca5a94-3668-4aeb-a5c1-dcbade715a9e" />
+
+•	*Worst Selling Pizza:* ‘The Brie Carre Pizza’ has recorded the lowest quantity sold and revenue which indicates an opportunity to review its ingredients and consider purchasing them less often or in smaller quantities to reduce inventory costs. Specifically, the ingredients that appear least frequently across the pizza menu — and are included in the aforementioned pizza; Prosciutto, Pears, Thyme, Brie Carre Cheese, and Caramelized Onions. In contrast, since garlic is used in 19 other pizzas on the menu, it will be purchased with the same frequency and quantity as before.  
 
 ---
 ### Sales Performance: (Based On Revenue) <br><br>

@@ -103,7 +103,7 @@ The best-selling pizza (S) for Classic --> 'The Big Meat Pizza’
 •	*Improve Non-Peak Period Sales:* In particular, roll out a breakfast menu which may or may not include pizzas to capture a wider audience. Essentially, the goal is to avoid limiting pizzas to being perceived solely as a lunch or dinner option.
 
 
-•	*Reduce Inventory Costs:*  Since ‘The Brie Carre Pizza’ is the worst-performing pizza, it will be beneficial to either modify the recipe or at least reduce the order volume for the ingredients used in that pizza.
+•	*Reduce Inventory Costs:*  Since ‘The Brie Carre Pizza’ is the worst-performing pizza, it will be beneficial to either modify the recipe or at least reduce the order volume for the aforementioned ingredients used in that pizza.
 
 
 •	*Enhance Operational Efficiency:* Hire more part-time servers during the peak period in July to maintain prompt food service to prevent customer complaints and minimize fixed labor costs (i.e. compared to hiring full-timers).
